@@ -1,0 +1,10 @@
+/* ============================================
+   Timer Page Styles
+   Countdown pengumuman kelulusan
+   ============================================ */
+
+.timer-bg {
+  background: url('../img/1-min.png') center center no-repeat;
+  background-size: cover;
+  background-attachment: scroll;
+}
